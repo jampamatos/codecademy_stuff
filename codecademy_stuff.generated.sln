@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CS", "CS", "{D3127099-4907-4B95-8CA5-1A01FFFA5411}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "linked-list", "linked-list", "{1ED3CC84-C162-4BF6-8A8E-9A885A5B4F54}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedListExample", "CS\linked-list\LinkedListExample\LinkedListExample.csproj", "{6248F872-7955-40EC-91F2-DC1F311135D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6248F872-7955-40EC-91F2-DC1F311135D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6248F872-7955-40EC-91F2-DC1F311135D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6248F872-7955-40EC-91F2-DC1F311135D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6248F872-7955-40EC-91F2-DC1F311135D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1ED3CC84-C162-4BF6-8A8E-9A885A5B4F54} = {D3127099-4907-4B95-8CA5-1A01FFFA5411}
+		{6248F872-7955-40EC-91F2-DC1F311135D6} = {1ED3CC84-C162-4BF6-8A8E-9A885A5B4F54}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF37DF07-C423-4DDE-A8AE-9D3E4E2A76FB}
+	EndGlobalSection
+EndGlobal

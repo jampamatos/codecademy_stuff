@@ -1,0 +1,14 @@
+C:\Users\jampa\workspace\linked-lists\LinkedListExample\obj\Debug\net7.0\LinkedListExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jampa\workspace\linked-lists\LinkedListExample\obj\Debug\net7.0\LinkedListExample.AssemblyInfoInputs.cache
+C:\Users\jampa\workspace\linked-lists\LinkedListExample\obj\Debug\net7.0\LinkedListExample.AssemblyInfo.cs
+C:\Users\jampa\workspace\linked-lists\LinkedListExample\obj\Debug\net7.0\LinkedListExample.csproj.CoreCompileInputs.cache
+C:\Users\jampa\workspace\linked-lists\LinkedListExample\bin\Debug\net7.0\LinkedListExample.exe
+C:\Users\jampa\workspace\linked-lists\LinkedListExample\bin\Debug\net7.0\LinkedListExample.deps.json
+C:\Users\jampa\workspace\linked-lists\LinkedListExample\bin\Debug\net7.0\LinkedListExample.runtimeconfig.json
+C:\Users\jampa\workspace\linked-lists\LinkedListExample\bin\Debug\net7.0\LinkedListExample.dll
+C:\Users\jampa\workspace\linked-lists\LinkedListExample\bin\Debug\net7.0\LinkedListExample.pdb
+C:\Users\jampa\workspace\linked-lists\LinkedListExample\obj\Debug\net7.0\LinkedListExample.dll
+C:\Users\jampa\workspace\linked-lists\LinkedListExample\obj\Debug\net7.0\refint\LinkedListExample.dll
+C:\Users\jampa\workspace\linked-lists\LinkedListExample\obj\Debug\net7.0\LinkedListExample.pdb
+C:\Users\jampa\workspace\linked-lists\LinkedListExample\obj\Debug\net7.0\LinkedListExample.genruntimeconfig.cache
+C:\Users\jampa\workspace\linked-lists\LinkedListExample\obj\Debug\net7.0\ref\LinkedListExample.dll
