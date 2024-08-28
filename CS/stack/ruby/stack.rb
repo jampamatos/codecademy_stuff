@@ -40,3 +40,28 @@ class Stack
         @size == 0
     end
 end
+
+class Hanoi < Stack
+    attr_reader :name
+
+    def initialize(name, limit = 1000)
+        @name = name
+        super(limit)
+    end
+
+    def print_items
+        puts to_s
+    end
+
+    def to_s
+        pointer = @top_item
+        print_list = []
+
+        while pointer
+            print_list << pointer.value
+            pointer = pointer.next_node
+        end
+
+        "#{@name}: #{print_list.reverse.join(', ')}"
+    end
+end

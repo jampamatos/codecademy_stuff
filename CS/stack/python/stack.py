@@ -33,3 +33,27 @@ class Stack:
     
     def is_empty(self):
         return self.size == 0
+    
+    def get_size(self):
+        return self.size
+    
+class Hanoi(Stack):
+    def __init__(self, name, limit=1000):
+        self.name = name
+        super().__init__(limit)
+    
+    def __str__(self):
+        print_list = [node.get_value() for node in self._iterate_nodes()]
+        return f"{self.get_name()}: {print_list}"
+
+    def get_name(self):
+        return self.name
+    
+    def print_items(self):
+        print(self)
+    
+    def _iterate_nodes(self):
+        current = self.top_item
+        while current:
+            yield current
+            current = current.get_next_node()
